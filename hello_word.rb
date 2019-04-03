@@ -1,1 +1,1 @@
- "hello Word!"
+puts "hello Word!"
